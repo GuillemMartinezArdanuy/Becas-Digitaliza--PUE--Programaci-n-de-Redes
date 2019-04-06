@@ -1,4 +1,4 @@
-#Recoger datos del terminal
+#Recoger datos del terminal 
 #Crear un archivo llamado 03_personal-info.py
 #Crear un script que pregunte por el nombre, el apellido, el teléfono, la ciudad, y la edad. Cada valor ha de ser guardado en una variable diferente.
 nom = input("Como te llamas?")
